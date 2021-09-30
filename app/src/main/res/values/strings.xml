@@ -7,4 +7,7 @@
     <string name="float_menu_2">Cambiar</string>
     <string name="help_menu_1">Información</string>
     <string name="help_menu_2">Reportar error</string>
+    <string name="help_group_1">Item en grupo 1</string>
+    <string name="help_group_2">Item en grupo 2</string>
+    <string name="help_group_3">Item en grupo 3</string>
 </resources>
